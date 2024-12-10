@@ -1,11 +1,11 @@
 # R
-[Table of available packages, sorted by date of publication](https://cloud.r-project.org/web/packages/available_packages_by_date.html)                 
-[Table of available packages, sorted by name](https://cloud.r-project.org/web/packages/available_packages_by_name.html)                   
-[Table of packages topics](https://cloud.r-project.org/web/views)                          
+**[Table of available packages, sorted by date of publication](https://cloud.r-project.org/web/packages/available_packages_by_date.html)**                 
+**[Table of available packages, sorted by name](https://cloud.r-project.org/web/packages/available_packages_by_name.html)**                   
+**[Table of packages topics](https://cloud.r-project.org/web/views)**                          
 
 # Github
-[R-lang](https://github.com/topics/r)       
-[awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
+**[R-lang](https://github.com/topics/r)**       
+**[awesome-R](https://github.com/qinwf/awesome-R)** - list of awesome R packages, frameworks and software            
 [tidyverse](https://github.com/tidyverse) - collection of R packages that share common principles and are designed to work together seamlessly                   
 [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - list of R tutorials for Data Science, NLP and Machine Learning            
 [r4ds](https://github.com/hadley/r4ds) - R for data science: a book           
