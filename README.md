@@ -1,5 +1,7 @@
 # R
-
+[Table of available packages, sorted by date of publication](https://cloud.r-project.org/web/packages/available_packages_by_date.html)                 
+[Table of available packages, sorted by name](https://cloud.r-project.org/web/packages/available_packages_by_name.html)                   
+[Table of packages topics](https://cloud.r-project.org/web/views)                          
 
 # Github
 [R-lang](https://github.com/topics/r)       
